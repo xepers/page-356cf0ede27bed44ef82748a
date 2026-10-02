@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7aef727d90.liudongjob.cn/sitemap.xml
